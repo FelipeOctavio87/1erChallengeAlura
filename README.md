@@ -1,8 +1,8 @@
 # 1erChallengeAlura
 
-1. Propósito del análisis realizado
+1. Propósito del Análisis Realizado
 
-Simular un escenario real para que el señor Juan pueda tomar decisiones estratégicas y fundamentales respecto a qué tienda vender con el objetivo de invertir en un nuevo negocio, por lo tanto evaluaremos cual de las cuatro tiendas tiene un desempeño menor, para eso analisaremos las ventas y el rendimiento de cada tienda. 
+Simular un escenario real para que el señor Juan pueda tomar decisiones estratégicas y fundamentales respecto a qué tienda vender con el objetivo de invertir en un nuevo negocio, por lo tanto evaluaremos cual de las cuatro tiendas tiene un desempeño menor, para eso analisaremos idnicadores de performance (KPis)
 
 2. La estructura del proyecto y organización de los archivos.
    - Facturación total de cada tienda
@@ -11,9 +11,20 @@ Simular un escenario real para que el señor Juan pueda tomar decisiones estrat�
    - Promedio de Evaluación de cada uno de los clientes
    - Costo promedio del envío 
 
-3. Ejemplos de gráficos e insights obtenidos 
+3. Ejemplos de gráficos e insights obtenidos
+   
+   Se utilizaron las Bibliotecas:
+   - Pandas
+   - Matplotlib
+   - Seaborn
+   - Plotly
+   - Numpy
 
-4. Instrucciones para ejecutar el notebook 
+5. Instrucciones para ejecutar el notebook
+
+El Archivo está en formato .ipynb y fué desarollado en Google Colab, en donde cada celda está #marcada con información además de código con lenguaje python. 
+
+   
 
 
 
